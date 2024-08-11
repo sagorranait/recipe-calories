@@ -8,11 +8,14 @@ export default {
   ],
   theme: {
     extend: {
-      
+      boxShadow: {
+        'card': '20px 16px 35px 0 rgb(0 0 0 / 0.05)',
+      },
     },
     colors: {
       'primary': '#000000',
       'secondary': '#4E4443',
+      'aliceblue': '#F1F5FE'
     },
   },
   plugins: [],

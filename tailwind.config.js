@@ -7,14 +7,12 @@ export default {
     './components/**/*.{html,jsx}',
   ],
   theme: {
-    extend: {},
+    extend: {
+      
+    },
     colors: {
-      'primary': '#0BE58A',
-      'secondary': '#150B2B',
-      'eerieblack': {
-        5: '#150b2b0d',
-        75: '#150b2bb3'
-      }
+      'primary': '#000000',
+      'secondary': '#4E4443',
     },
   },
   plugins: [],

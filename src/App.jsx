@@ -1,8 +1,9 @@
-function App() {
+import Header from "./components/Header"
 
+function App() {
   return (
     <>
-     <h1>Recipe Calories</h1>
+     <Header/>
     </>
   )
 }

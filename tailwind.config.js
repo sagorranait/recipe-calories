@@ -15,7 +15,8 @@ export default {
     colors: {
       'primary': '#000000',
       'secondary': '#4E4443',
-      'aliceblue': '#F1F5FE'
+      'aliceblue': '#F1F5FE',
+      'white': '#FFFFFF'
     },
   },
   plugins: [],
